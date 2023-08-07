@@ -1,0 +1,17 @@
+
+div.intern{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+}
+body{
+    background-color: rgb(222, 227, 233);
+    font-family: sans-serif;
+}
+.footer{
+    text-align: center;
+}
+p {
+    border: 1px solid grey;
+}
